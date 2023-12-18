@@ -40,7 +40,7 @@ def coleta_noticias(id_noticia, id_descricao):
 
         #print
         driver.execute_script(f'window.scrollTo(0, {noticia.location['y'] - 150})')
-        path = "C://Info4//WebScrapping//Estudo//noticias_sp//imagens_noticias//"
+        path = ".//imagens_noticias//"
         noticia.screenshot(path + str(id_noticia) + 'img.png')
 
         noticias_lista.append(noticias_dict)
@@ -80,7 +80,7 @@ def coleta_noticia_banner(id_noticia, id_descricao):
             descricao_noticias_lista.append(descricao_noticias_dict)
 
         #print
-        path = "C://Info4//WebScrapping//Estudo//noticias_sp//imagens_noticias//"
+        path = ".//imagens_noticias//"
         noticia_banner.screenshot(path + str(id_noticia) + 'img.png')
 
         noticias_lista.append(noticias_dict)
@@ -125,6 +125,6 @@ descricao_noticias_df = pd.concat([descricao_noticias_banner_df, descricao_notic
 print(noticias_df)
 print(descricao_noticias_df)
 
-path = "C://Info4//WebScrapping//Estudo//noticias_sp//tabelas_noticias//"
+path = ".//tabelas_noticias//"
 noticias_df.to_csv(path + "noticias.csv", index=False)
 descricao_noticias_df.to_csv(path + "descricao_noticias.csv", index=False)
