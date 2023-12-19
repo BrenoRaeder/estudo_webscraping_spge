@@ -1,34 +1,35 @@
-id_noticia,titulo_noticia
-1,São Paulo ajusta detalhes e fica próximo de renovar com Lucas
-2,Méndez troca de agentes e visa saída para futebol europeu
-3,PSG sinaliza oferta e entra em disputa por Beraldo
-4,São Paulo se aproxima de acordo por naming rights do Morumbi
-5,Férias? Rodrigo Nestor terá plano especial até depois do Natal
-6,Libertadores 2024: veja ranking para divisão dos potes de sorteio
-7,Chegada de Bobadilla pressiona clube a se desfazer de estrangeiros
-8,São Paulo goleia o Milan em jogo cheio de homenagens; fotos
-9,Lucas fica? Bobadilla assinou? E o Ferreira? Casares abre o jogo
-10,William Gomes vai se apresentar a Dorival Júnior em janeiro
-11,"Em tom de despedida, David agradece ao São Paulo e deve definir o futuro nas próximas semanas"
-12,Cartola 2023: Luciano assume protagonismo após lesão de Calleri e é o maior pontuador do São Paulo
-13,"São Paulo consegue virada, mas Nacional empata e vence na prorrogação"
-14,"Capixabas David Corrêa, Lincoln e Hayner arrecadam alimentos em jogo solidário"
-15,"Presidente do São Paulo admite ""outra realidade"" e atribui venda de Beraldo a proposta irrecusável"
-16,FPF convoca reunião com clubes paulistas para buscar apoio a Ednaldo Rodrigues na CBF
-17,Cartola Express: são-paulino confia na defesa do Bragantino e fatura R$ 10 mil na rodada #37
-18,Leicester avisa ao São Paulo que vai cobrir oferta do Zenit pelo zagueiro Beraldo; veja valores
-19,Grupos da Copa Votorantim sub-15 2024 são sorteados; veja datas e jogos
-20,São Paulo vive superlotação no meio de campo e deve ter concorrência acirrada em 2024
-21,Marinho afirma que teve propostas de São Paulo e Fluminense antes de fechar com Fortaleza
-22,São Paulo lida com insatisfação do elenco por atrasos enquanto busca reforços no mercado
-23,Camisas usadas em São Paulo x Milan comemorativo serão leiloadas
-24,"Desejo antigo do São Paulo, Ferreira oscilou em 2023, mas terminou ano em alta no Grêmio"
-25,"Agente diz que São Paulo pagará R$ 14,7 milhões por 60% de Bobadilla em contrato de quatro anos"
-26,Copinha Feminina: Flamengo vence São Paulo nos pênaltis e vai encarar o Botafogo na decisão
-27,São Paulo quer Ferreira até o Natal e deve intensificar conversas com o Grêmio
-28,Estudiantes e Junior Barranquilla se garantem na Libertadores; veja classificados
-29,"Regulamento prevê Pacaembu, mas FPF estuda opções para a final da Copinha; veja imagens da obra"
-30,"Bobadilla desperta concorrência, mas São Paulo se vê a uma assinatura de fechar negócio"
-31,Copinha Feminina: semifinal põe Flamengo e São Paulo frente a frente nesta quinta-feira
-32,"Com calendário cheio, São Paulo pode ter até 81 jogos em 2024"
-33,"Além do Santos, outros quatro ""incaíveis"" foram rebaixados no Brasileirão em 2023; confira"
+id_noticia,titulo_noticia,link_noticia
+1,"São Paulo terá novo patrocinador máster; veja valores
+Tricolor chega a acordo com a casa de apostas Superbet",https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/19/sao-paulo-fecha-acordo-com-casa-de-apostas-e-recebera-r-156-milhoes-em-tres-anos.ghtml
+2,São Paulo ajusta detalhes e se aproxima de renovar com Lucas,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/19/sao-paulo-ajusta-detalhes-e-fica-proximo-de-renovar-com-lucas-por-tres-anos.ghtml
+3,PSG sinaliza oferta e entra em disputa por Beraldo,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/18/psg-sinaliza-oferta-ao-sao-paulo-e-entra-em-disputa-pela-contratacao-de-beraldo.ghtml
+4,Méndez troca de agentes e visa saída para futebol europeu,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/19/mendez-troca-de-agentes-e-visa-saida-do-sao-paulo-para-futebol-europeu.ghtml
+5,São Paulo se aproxima de acordo por naming rights do Morumbi,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/18/sao-paulo-se-aproxima-de-acordo-milionario-de-venda-de-naming-rights-do-morumbi.ghtml
+6,Férias? Rodrigo Nestor terá plano especial até depois do Natal,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/18/ferias-rodrigo-nestor-segue-recuperacao-no-sao-paulo-e-tera-plano-especial-ate-depois-do-natal.ghtml
+7,Libertadores 2024: veja ranking para divisão dos potes de sorteio,https://ge.globo.com/futebol/libertadores/noticia/2023/12/18/libertadores-2024-veja-ranking-para-divisao-dos-potes-de-sorteio.ghtml
+8,Chegada de Bobadilla pressiona clube a se desfazer de estrangeiros,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/17/quem-vai-sair-contratacao-de-bobadilla-pressiona-sao-paulo-a-se-desfazer-de-estrangeiros.ghtml
+9,São Paulo goleia o Milan em jogo cheio de homenagens; fotos,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/16/sao-paulo-goleia-o-milan-em-amistoso-recheado-de-homenagens-veja-fotos.ghtml
+10,Lucas fica? Bobadilla assinou? E o Ferreira? Casares abre o jogo,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/16/casares-esta-otimista-por-lucas-e-chegada-de-bobadilla-ao-sao-paulo-mas-adota-cautela-sobre-ferreira.ghtml
+11,William Gomes vai se apresentar a Dorival Júnior em janeiro,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/14/na-lista-do-sao-paulo-para-a-copinha-william-gomes-vai-se-apresentar-a-dorival-em-janeiro.ghtml
+12,"Em tom de despedida, David agradece ao São Paulo e deve definir o futuro nas próximas semanas",https://ge.globo.com/es/futebol/noticia/2023/12/18/em-tom-de-despedida-david-agradece-ao-sao-paulo-e-deve-definir-o-futuro-nas-proximas-semanas.ghtml
+13,Cartola 2023: Luciano assume protagonismo após lesão de Calleri e é o maior pontuador do São Paulo,https://ge.globo.com/cartola/noticia/2023/12/18/cartola-2023-luciano-assume-protagonismo-apos-lesao-de-calleri-e-e-o-maior-pontuador-do-sao-paulo.ghtml
+14,"São Paulo consegue virada, mas Nacional empata e vence na prorrogação",https://ge.globo.com/basquete/noticia/2023/12/17/sao-paulo-consegue-virada-mas-nacional-empata-e-vence-na-prorrogacao.ghtml
+15,"Capixabas David Corrêa, Lincoln e Hayner arrecadam alimentos em jogo solidário",https://ge.globo.com/es/futebol/noticia/2023/12/17/capixabas-david-correa-lincoln-e-hayner-arrecadam-alimentos-em-jogo-solidario.ghtml
+16,"Presidente do São Paulo admite ""outra realidade"" e atribui venda de Beraldo a proposta irrecusável",https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/16/casares-admite-outra-realidade-e-atribui-venda-de-beraldo-a-proposta-irrecusavel.ghtml
+17,FPF convoca reunião com clubes paulistas para buscar apoio a Ednaldo Rodrigues na CBF,https://ge.globo.com/sp/futebol/noticia/2023/12/16/fpf-convoca-reuniao-com-clubes-paulistas-para-buscar-apoio-a-ednaldo-rodrigues-na-cbf.ghtml
+18,Cartola Express: são-paulino confia na defesa do Bragantino e fatura R$ 10 mil na rodada #37,https://ge.globo.com/cartola/cartola-express/noticia/2023/12/16/cartola-express-sao-paulino-confia-na-defesa-do-bragantino-e-fatura-r-10-mil-na-rodada-37.ghtml
+19,Leicester avisa ao São Paulo que vai cobrir oferta do Zenit pelo zagueiro Beraldo; veja valores,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/16/leicester-avisa-ao-sao-paulo-que-vai-cobrir-oferta-do-zenit-pelo-zagueiro-beraldo-veja-valores.ghtml
+20,Grupos da Copa Votorantim sub-15 2024 são sorteados; veja datas e jogos,https://ge.globo.com/sp/tem-esporte/copa-de-futebol-sub-15/noticia/2023/12/16/grupos-da-copa-votorantim-sub-15-2024-sao-sorteados-veja-datas-e-jogos.ghtml
+21,São Paulo vive superlotação no meio de campo e deve ter concorrência acirrada em 2024,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/16/sao-paulo-vive-superlotacao-no-meio-de-campo-e-deve-ter-concorrencia-acirrada-em-2024.ghtml
+22,Marinho afirma que teve propostas de São Paulo e Fluminense antes de fechar com Fortaleza,https://ge.globo.com/ce/futebol/times/fortaleza/noticia/2023/12/15/marinho-afirma-que-teve-propostas-de-sao-paulo-e-fluminense-antes-de-fechar-com-fortaleza.ghtml
+23,São Paulo lida com insatisfação do elenco por atrasos enquanto busca reforços no mercado,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/15/sao-paulo-lida-com-insatisfacao-do-elenco-por-atrasos-enquanto-busca-reforcos-no-mercado.ghtml
+24,Camisas usadas em São Paulo x Milan comemorativo serão leiloadas,https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/15/camisas-usadas-em-sao-paulo-x-milan-comemorativo-serao-leiloadas.ghtml
+25,"Desejo antigo do São Paulo, Ferreira oscilou em 2023, mas terminou ano em alta no Grêmio",https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/15/desejo-antigo-do-sao-paulo-ferreira-oscilou-em-2023-mas-terminou-ano-em-alta-no-gremio.ghtml
+26,"Agente diz que São Paulo pagará R$ 14,7 milhões por 60% de Bobadilla em contrato de quatro anos",https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/14/agente-diz-que-sao-paulo-pagara-r-147-milhoes-por-60percent-de-bobadilla-em-contrato-de-quatro-anos.ghtml
+27,Copinha Feminina: Flamengo vence São Paulo nos pênaltis e vai encarar o Botafogo na decisão,https://ge.globo.com/pb/futebol/futebol-feminino/noticia/2023/12/14/copinha-feminina-flamengo-sao-paulo-semifinal.ghtml
+28,São Paulo quer Ferreira até o Natal e deve intensificar conversas com o Grêmio,https://ge.globo.com/sp/futebol/noticia/2023/12/14/sao-paulo-quer-ferreirinha-ate-o-natal-e-deve-intensificar-conversas-com-o-gremio.ghtml
+29,Estudiantes e Junior Barranquilla se garantem na Libertadores; veja classificados,https://ge.globo.com/futebol/futebol-internacional/noticia/2023/12/14/libertadores-2024-classificados-estudiantes-junior-barranquilla.ghtml
+30,"Regulamento prevê Pacaembu, mas FPF estuda opções para a final da Copinha; veja imagens da obra",https://ge.globo.com/sp/futebol/noticia/2023/12/14/regulamento-preve-pacaembu-mas-fpf-estuda-opcoes-para-a-final-da-copinha-veja-imagens-da-obra.ghtml
+31,"Bobadilla desperta concorrência, mas São Paulo se vê a uma assinatura de fechar negócio",https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/14/bobadilla-desperta-concorrencia-mas-sao-paulo-se-ve-a-uma-assinatura-de-fechar-negocio.ghtml
+32,Copinha Feminina: semifinal põe Flamengo e São Paulo frente a frente nesta quinta-feira,https://ge.globo.com/pb/futebol/futebol-feminino/noticia/2023/12/14/copinha-feminina-semifinal-poe-flamengo-e-sao-paulo-frente-a-frente-nesta-quinta-feira.ghtml
+33,"Com calendário cheio, São Paulo pode ter até 81 jogos em 2024",https://ge.globo.com/futebol/times/sao-paulo/noticia/2023/12/14/com-calendario-cheio-sao-paulo-pode-ter-ate-81-jogos-em-2024.ghtml

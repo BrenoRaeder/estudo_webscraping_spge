@@ -31,6 +31,10 @@ def coleta_noticia_banner(id_noticia, id_descricao):
         titulo = noticia_banner.find_element(By.CSS_SELECTOR, ".bstn-hl-mainitem")
         noticias_dict['titulo_noticia'] = titulo.text
 
+        elemento_link = noticia_banner.find_element(By.CSS_SELECTOR,".bstn-hl-link")
+        link = elemento_link.get_attribute("href")
+        noticias_dict['link_noticia'] = link
+
         subtitulos = noticia_banner.find_elements(By.CSS_SELECTOR, ".bstn-hl-relateditem")
 
         for subtitulo in subtitulos:
@@ -65,6 +69,10 @@ def coleta_noticias(id_noticia, id_descricao):
 
         titulo = noticia.find_element(By.CSS_SELECTOR, ".feed-post-body-title ._evt")
         noticias_dict['titulo_noticia'] = titulo.text
+
+        elemento_link = noticia.find_element(By.CSS_SELECTOR, ".feed-post-figure-link")
+        link = elemento_link.get_attribute("href")
+        noticias_dict['link_noticia'] = link
 
         subtitulos = noticia.find_elements(By.CSS_SELECTOR, ".bstn-fd-relatedtext")
         for subtitulo in subtitulos:
@@ -123,15 +131,20 @@ def verifica_noticias(noticias_df, descriao_noticias_df):
     i = 0
     corpo_email = ''
     lista_ids = []
+    lista_procura = ["Lucas", "Beraldo", "Pablo Maia", "Calleri", "Galopo", "Luciano", "Rafinha", "contratação", "mercado", "saída"]
     for noticia in noticias_df['titulo_noticia']:
         i += 1
-        if 'Lucas' in noticia:
-            corpo_email += "Titulo da Notícia: \n" + noticia + "\n\n"
-            descricoes = descricao_noticias_df.loc[descricao_noticias_df['id_noticia'] == i]
-            for descricao in descricoes['descricao_noticia']:
-                corpo_email += "Subtiutlo: \n" + descricao + "\n"
-            lista_ids.append(i)
-            corpo_email += "\n ---\n\n"
+        for palavra_procura in lista_procura:
+            if palavra_procura in noticia:
+                corpo_email += "Titulo da Notícia (" + palavra_procura + "): \n" + noticia + "\n\n"
+                descricoes = descricao_noticias_df.loc[descricao_noticias_df['id_noticia'] == i]
+                for descricao in descricoes['descricao_noticia']:
+                    corpo_email += "Subtiutlo: \n" + descricao + "\n"
+                links = noticias_df['link_noticia'].loc[noticias_df['id_noticia'] == i]
+                for link in links:
+                    corpo_email += "Link da Noticia: " + link + "\n"
+                corpo_email += "\n ---\n\n"
+                lista_ids.append(i)
 
     envia_email_noticias(corpo_email, lista_ids)
 
