@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4d0f5e2-d1ea-4622-9771-328b70b6a091" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tabelas_noticias/descricao_noticias.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tabelas_noticias/descricao_noticias.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tabelas_noticias/noticias.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tabelas_noticias/noticias.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Info4/WebScrapping/Estudo"
+    "last_opened_file_path": "C:/Info4/WebScrapping/Estudo/email_teste"
   }
 }]]></component>
   <component name="SharedIndexes">

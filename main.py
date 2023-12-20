@@ -101,6 +101,7 @@ def coleta_noticias(id_noticia, id_descricao):
 
     return id_noticia, id_descricao, noticias_lista, descricao_noticias_lista
 
+
 def envia_email_noticias(corpo_email, lista_ids):
     msg = MIMEMultipart()
 
@@ -127,6 +128,7 @@ def envia_email_noticias(corpo_email, lista_ids):
 
     print('Email enviado')
 
+
 def verifica_noticias(noticias_df, descriao_noticias_df):
     i = 0
     corpo_email = ''
@@ -150,6 +152,7 @@ def verifica_noticias(noticias_df, descriao_noticias_df):
 
 
 #############
+
 
 # usando web driver para abrir e maximizar a página
 driver = webdriver.Chrome()
